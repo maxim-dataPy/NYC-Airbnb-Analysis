@@ -13,6 +13,7 @@ The dataset was taken from [Kaggle](https://www.kaggle.com/datasets/dgomonov/new
 ## Tools
 - Python
 - Pandas
+- Numpy
 - Seaborn / Matplotlib
 - Plotly Express
 - Jupyter Notebook
